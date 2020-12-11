@@ -2,7 +2,6 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-  
 }
 
 body {
@@ -76,7 +75,8 @@ a {
     font-size: 36px;
 }
 
-.search-engine-optimization img {
+.search-engine-optimization img,
+.social-media-marketing img {
     max-height: 200px;
     float:left;
     margin-right: 25px;
@@ -86,12 +86,6 @@ a {
     max-height: 200px;
     float: right;
     margin-left: 25px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-    float:left;
-    margin-right: 25px;
 }
 
 .benefits {
